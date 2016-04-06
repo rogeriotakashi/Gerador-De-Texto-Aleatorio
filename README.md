@@ -1,1 +1,1 @@
-# Gerador-De-Texto-aleat-rio
+# Gerador-De-Texto-aleatorio
